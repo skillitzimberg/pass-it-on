@@ -78,7 +78,7 @@ module.exports = {
     new HtmlWebpackPlugin({
       template:'template.ejs',
       appMountId: 'react-app-root',
-      title: 'Portfolio',
+      title: 'Pass It On',
       filename: resolve(__dirname, "build", "index.html"),
     }),
   ]
